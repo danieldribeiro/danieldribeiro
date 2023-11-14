@@ -80,7 +80,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 
 <p align="center">
   <a
-    href="https://github.com/danieldribeiro/github-profile-trophy"
+    href="https://github.com/ryo-ma/github-profile-trophy"
     title="repositório de troféus"
   >
     <img
