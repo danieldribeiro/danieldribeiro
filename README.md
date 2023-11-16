@@ -83,7 +83,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 </p>
 
 <div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
+  <h3><b>Profile Visitor Count</b></h3>
 </div>
 
 <p align="center">
