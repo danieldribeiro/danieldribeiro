@@ -5,6 +5,8 @@
 <p align="left"> 
 Graduado em Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor. Atualmente faço parte do Curso Engenheiro Front-End na Escola Brasileira de Artes Criativas e Tecnologia - EBAC e da formação da escola RocketSeat.
 
+Para mais informações acesse meu <a href="https://www/ddrdev.io" title="Portfólio" target="_blank">portfólio</a>
+
 <h2 align="left">
  Linguagens:
 </h2>
