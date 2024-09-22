@@ -22,7 +22,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 ![Next JS](https://img.shields.io/badge/Next%20JS-000000?style=for-the-badge&logo=next-js&)
 ![Stlyed Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-35495E?style=for-the-badge&logo=sql&)
-![MySQL](https://img.shields.io/badge/SQL-35495E?style=for-the-badge&logo=sql&)
+![MySQL](https://img.shields.io/badge/My%20SQL-3c3c3c?style=for-the-badge&logo=mysql&)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
 <p align="left">
