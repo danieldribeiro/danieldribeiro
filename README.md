@@ -5,9 +5,12 @@
 <p align="left"> 
 Graduado em Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor. Atualmente faço parte do Curso Engenheiro Front-End na Escola Brasileira de Artes Criativas e Tecnologia - EBAC e da formação da escola RocketSeat.
 
-Atualmente atuo como Analista de Sistemas nas Lojas Colombo.
-
 Não deixe de conferir também o meu <a href="https://www/ddrdev.io" title="Portfólio" target="_blank">portfólio</a>
+
+</br>
+</br>
+</br>
+</br>
 
 <h2 align="left">
  Linguagens:
